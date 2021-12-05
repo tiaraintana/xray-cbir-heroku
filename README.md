@@ -1,4 +1,4 @@
-# X-Ray Pneumonia Prpject
+# X-Ray Pneumonia Project
 
 ## Result after Deploy at Heroku
 [Link App Deployment at Heroku](https://xray-cbir-project-heroku.herokuapp.com/)
