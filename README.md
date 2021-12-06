@@ -1,7 +1,7 @@
 # X-Ray Pneumonia Project
 
 ## Result after Deploy at Heroku
-[Link App Deployment at Heroku](https://xray-cbir-project-heroku.herokuapp.com/)
+[Link App Deployment at Heroku](https://cbir-project-for-xray-261-235.herokuapp.com/)
 ![Capture Ret](https://user-images.githubusercontent.com/48962405/144776249-69432ee9-31f8-445a-85d0-84e22eab8c17.PNG)
 
 ## Deskripsi Dataset 
