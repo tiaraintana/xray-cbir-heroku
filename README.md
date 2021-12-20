@@ -16,3 +16,11 @@ URL : https://www.tandfonline.com/doi/abs/10.1080/02522667.2020.1809096
 ## Contributor
 1. Ulfah Nur Oktaviana (201810370311261)
 2. Tiara Intana Sari (201810370311235)
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [CNN Tensorflow](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1/examples/3_NeuralNetworks/convolutional_network.py)
+* [DenseNet Documentation](https://keras.io/api/applications/densenet/)
+* [Keras Documentation of Transfer Learning Model](https://keras.io/api/applications/)
+* [Data AUgmentation Using Tensorflow](https://www.tensorflow.org/tutorials/images/data_augmentation)
